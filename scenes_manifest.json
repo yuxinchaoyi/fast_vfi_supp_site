@@ -1,0 +1,32 @@
+{
+  "datasets": [
+    {
+      "name": "Pexels",
+      "scenes": [
+        "animals1",
+        "animals8",
+        "surfing1",
+        "surfing3",
+        "surfing9",
+        "vehicles moving2",
+        "vehicles moving6"
+      ]
+    },
+    {
+      "name": "Davis",
+      "scenes": [
+        "aerobatics",
+        "bear",
+        "breakdance",
+        "bus",
+        "camel",
+        "color-run",
+        "dancing",
+        "dogs-jump",
+        "surf",
+        "tuk-tuk",
+        "walking"
+      ]
+    }
+  ]
+}
